@@ -63,5 +63,5 @@ jobs:
           git diff --staged --quiet || \
             git commit -m \
             "[skip ci] ci: update API test results \
-            $(date +'%Y-%m-%d %H:%M')"
+            $(date -d '+8 hours' +'%Y-%m-%d %H:%M')"
           git push
