@@ -1,0 +1,410 @@
+[
+  {
+    "name": "baidu.qifu",
+    "url": "https://qifu-api.baidubce.com/ip/local/geo/v1/district",
+    "status": "http_403",
+    "elapsed_ms": 2524.16,
+    "remark": "已失效",
+    "supports_ip": false,
+    "result": {
+      "code": "KeyDisabled"
+    },
+    "error": null,
+    "test_ip": "117.30.120.138"
+  },
+  {
+    "name": "baidu.qifu",
+    "url": "https://qifu-api.baidubce.com/ip/local/geo/v1/district",
+    "status": "http_403",
+    "elapsed_ms": 313.43,
+    "remark": "已失效",
+    "supports_ip": false,
+    "result": {
+      "code": "KeyDisabled"
+    },
+    "error": null,
+    "test_ip": "1.1.1.1"
+  },
+  {
+    "name": "baidu.qifu",
+    "url": "https://qifu-api.baidubce.com/ip/local/geo/v1/district",
+    "status": "http_403",
+    "elapsed_ms": 309.93,
+    "remark": "已失效",
+    "supports_ip": false,
+    "result": {
+      "code": "KeyDisabled"
+    },
+    "error": null,
+    "test_ip": "8.8.8.8"
+  },
+  {
+    "name": "bilibili",
+    "url": "https://api.live.bilibili.com/xlive/web-room/v1/index/getIpInfo",
+    "status": "http_412",
+    "elapsed_ms": 1132.47,
+    "remark": "",
+    "supports_ip": false,
+    "result": {
+      "raw": "<!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">\n "
+    },
+    "error": null,
+    "test_ip": "117.30.120.138"
+  },
+  {
+    "name": "bilibili",
+    "url": "https://api.live.bilibili.com/xlive/web-room/v1/index/getIpInfo",
+    "status": "http_412",
+    "elapsed_ms": 373.68,
+    "remark": "",
+    "supports_ip": false,
+    "result": {
+      "raw": "<!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">\n "
+    },
+    "error": null,
+    "test_ip": "1.1.1.1"
+  },
+  {
+    "name": "bilibili",
+    "url": "https://api.live.bilibili.com/xlive/web-room/v1/index/getIpInfo",
+    "status": "http_412",
+    "elapsed_ms": 538.76,
+    "remark": "",
+    "supports_ip": false,
+    "result": {
+      "raw": "<!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">\n "
+    },
+    "error": null,
+    "test_ip": "8.8.8.8"
+  },
+  {
+    "name": "cip.cc",
+    "url": "http://www.cip.cc/8.8.8.8",
+    "status": "timeout",
+    "elapsed_ms": 10526.99,
+    "remark": "返回文本格式",
+    "supports_ip": true,
+    "result": null,
+    "error": "请求超时",
+    "test_ip": "8.8.8.8"
+  },
+  {
+    "name": "csdn.searchplugin",
+    "url": "https://searchplugin.csdn.net/api/v1/ip/get?ip=117.30.120.138",
+    "status": "http_403",
+    "elapsed_ms": 1624.07,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": {
+      "raw": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n"
+    },
+    "error": null,
+    "test_ip": "117.30.120.138"
+  },
+  {
+    "name": "csdn.searchplugin",
+    "url": "https://searchplugin.csdn.net/api/v1/ip/get?ip=1.1.1.1",
+    "status": "http_403",
+    "elapsed_ms": 257.07,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": {
+      "raw": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n"
+    },
+    "error": null,
+    "test_ip": "1.1.1.1"
+  },
+  {
+    "name": "csdn.searchplugin",
+    "url": "https://searchplugin.csdn.net/api/v1/ip/get?ip=8.8.8.8",
+    "status": "http_403",
+    "elapsed_ms": 257.94,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": {
+      "raw": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n"
+    },
+    "error": null,
+    "test_ip": "8.8.8.8"
+  },
+  {
+    "name": "ip-api.io",
+    "url": "https://ip-api.io/json?ip=117.30.120.138",
+    "status": "http_401",
+    "elapsed_ms": 1134.58,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": {
+      "raw": "Valid API key is required. Please visit https://ip-api.io to obtain an API key."
+    },
+    "error": null,
+    "test_ip": "117.30.120.138"
+  },
+  {
+    "name": "ip-api.io",
+    "url": "https://ip-api.io/json?ip=1.1.1.1",
+    "status": "http_401",
+    "elapsed_ms": 123.91,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": {
+      "raw": "Valid API key is required. Please visit https://ip-api.io to obtain an API key."
+    },
+    "error": null,
+    "test_ip": "1.1.1.1"
+  },
+  {
+    "name": "ip-api.io",
+    "url": "https://ip-api.io/json?ip=8.8.8.8",
+    "status": "http_401",
+    "elapsed_ms": 122.23,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": {
+      "raw": "Valid API key is required. Please visit https://ip-api.io to obtain an API key."
+    },
+    "error": null,
+    "test_ip": "8.8.8.8"
+  },
+  {
+    "name": "ip.cn",
+    "url": "https://www.ip.cn/api/index?ip=117.30.120.138&type=0",
+    "status": "error",
+    "elapsed_ms": 1442.45,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": null,
+    "error": "Cannot connect to host 127.0.0.1:80 ssl:default [Connect call failed ('127.0.0.1', 80)]",
+    "test_ip": "117.30.120.138"
+  },
+  {
+    "name": "ip.cn",
+    "url": "https://www.ip.cn/api/index?ip=1.1.1.1&type=0",
+    "status": "error",
+    "elapsed_ms": 44.24,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": null,
+    "error": "Cannot connect to host 127.0.0.1:80 ssl:default [Connect call failed ('127.0.0.1', 80)]",
+    "test_ip": "1.1.1.1"
+  },
+  {
+    "name": "ip.cn",
+    "url": "https://www.ip.cn/api/index?ip=8.8.8.8&type=0",
+    "status": "error",
+    "elapsed_ms": 44.2,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": null,
+    "error": "Cannot connect to host 127.0.0.1:80 ssl:default [Connect call failed ('127.0.0.1', 80)]",
+    "test_ip": "8.8.8.8"
+  },
+  {
+    "name": "my.ipinfo.app",
+    "url": "https://ipv4.my.ipinfo.app/api/ipDetails.php",
+    "status": "http_404",
+    "elapsed_ms": 299.43,
+    "remark": "",
+    "supports_ip": false,
+    "result": {
+      "raw": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/ipDetails.php</pre>\n</body>\n</html>\n"
+    },
+    "error": null,
+    "test_ip": "117.30.120.138"
+  },
+  {
+    "name": "my.ipinfo.app",
+    "url": "https://ipv4.my.ipinfo.app/api/ipDetails.php",
+    "status": "http_404",
+    "elapsed_ms": 23.03,
+    "remark": "",
+    "supports_ip": false,
+    "result": {
+      "raw": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/ipDetails.php</pre>\n</body>\n</html>\n"
+    },
+    "error": null,
+    "test_ip": "1.1.1.1"
+  },
+  {
+    "name": "my.ipinfo.app",
+    "url": "https://ipv4.my.ipinfo.app/api/ipDetails.php",
+    "status": "http_404",
+    "elapsed_ms": 24.58,
+    "remark": "",
+    "supports_ip": false,
+    "result": {
+      "raw": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/ipDetails.php</pre>\n</body>\n</html>\n"
+    },
+    "error": null,
+    "test_ip": "8.8.8.8"
+  },
+  {
+    "name": "qjqq.cn",
+    "url": "https://api.qjqq.cn/api/Local?ip=117.30.120.138",
+    "status": "timeout",
+    "elapsed_ms": 10757.22,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": null,
+    "error": "请求超时",
+    "test_ip": "117.30.120.138"
+  },
+  {
+    "name": "qjqq.cn",
+    "url": "https://api.qjqq.cn/api/Local?ip=1.1.1.1",
+    "status": "http_504",
+    "elapsed_ms": 10409.39,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": {
+      "raw": "\n<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>网站请求超时</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge,chrome=1"
+    },
+    "error": null,
+    "test_ip": "1.1.1.1"
+  },
+  {
+    "name": "qjqq.cn",
+    "url": "https://api.qjqq.cn/api/Local?ip=8.8.8.8",
+    "status": "http_504",
+    "elapsed_ms": 10133.69,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": {
+      "raw": "\n<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>网站请求超时</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge,chrome=1"
+    },
+    "error": null,
+    "test_ip": "8.8.8.8"
+  },
+  {
+    "name": "test.ipw.cn",
+    "url": "https://test.ipw.cn/api/ip/myip?json",
+    "status": "error",
+    "elapsed_ms": 374.73,
+    "remark": "",
+    "supports_ip": false,
+    "result": null,
+    "error": "Cannot connect to host test.ipw.cn:443 ssl:default [No address associated with hostname]",
+    "test_ip": "117.30.120.138"
+  },
+  {
+    "name": "test.ipw.cn",
+    "url": "https://test.ipw.cn/api/ip/myip?json",
+    "status": "error",
+    "elapsed_ms": 257.22,
+    "remark": "",
+    "supports_ip": false,
+    "result": null,
+    "error": "Cannot connect to host test.ipw.cn:443 ssl:default [No address associated with hostname]",
+    "test_ip": "1.1.1.1"
+  },
+  {
+    "name": "test.ipw.cn",
+    "url": "https://test.ipw.cn/api/ip/myip?json",
+    "status": "error",
+    "elapsed_ms": 284.39,
+    "remark": "",
+    "supports_ip": false,
+    "result": null,
+    "error": "Cannot connect to host test.ipw.cn:443 ssl:default [No address associated with hostname]",
+    "test_ip": "8.8.8.8"
+  },
+  {
+    "name": "uomg.com",
+    "url": "https://api.uomg.com/api/visitor.info?skey=1",
+    "status": "timeout",
+    "elapsed_ms": 10582.82,
+    "remark": "已失效",
+    "supports_ip": false,
+    "result": null,
+    "error": "请求超时",
+    "test_ip": "117.30.120.138"
+  },
+  {
+    "name": "uomg.com",
+    "url": "https://api.uomg.com/api/visitor.info?skey=1",
+    "status": "error",
+    "elapsed_ms": 0.65,
+    "remark": "已失效",
+    "supports_ip": false,
+    "result": null,
+    "error": "Cannot connect to host api.uomg.com:443 ssl:default [Temporary failure in name resolution]",
+    "test_ip": "1.1.1.1"
+  },
+  {
+    "name": "uomg.com",
+    "url": "https://api.uomg.com/api/visitor.info?skey=1",
+    "status": "error",
+    "elapsed_ms": 7114.94,
+    "remark": "已失效",
+    "supports_ip": false,
+    "result": null,
+    "error": "Cannot connect to host api.uomg.com:443 ssl:default [Temporary failure in name resolution]",
+    "test_ip": "8.8.8.8"
+  },
+  {
+    "name": "useragentinfo",
+    "url": "https://ip.useragentinfo.com/json",
+    "status": "error",
+    "elapsed_ms": 728.1,
+    "remark": "已失效",
+    "supports_ip": false,
+    "result": null,
+    "error": "Cannot connect to host ip.useragentinfo.com:443 ssl:default [Name or service not known]",
+    "test_ip": "117.30.120.138"
+  },
+  {
+    "name": "useragentinfo",
+    "url": "https://ip.useragentinfo.com/json",
+    "status": "error",
+    "elapsed_ms": 50.47,
+    "remark": "已失效",
+    "supports_ip": false,
+    "result": null,
+    "error": "Cannot connect to host ip.useragentinfo.com:443 ssl:default [Name or service not known]",
+    "test_ip": "1.1.1.1"
+  },
+  {
+    "name": "useragentinfo",
+    "url": "https://ip.useragentinfo.com/json",
+    "status": "error",
+    "elapsed_ms": 51.06,
+    "remark": "已失效",
+    "supports_ip": false,
+    "result": null,
+    "error": "Cannot connect to host ip.useragentinfo.com:443 ssl:default [Name or service not known]",
+    "test_ip": "8.8.8.8"
+  },
+  {
+    "name": "vore.top",
+    "url": "https://api.vore.top/api/IPdata?ip=117.30.120.138",
+    "status": "error",
+    "elapsed_ms": 778.95,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": null,
+    "error": "Cannot connect to host api.vore.top:443 ssl:default [Name or service not known]",
+    "test_ip": "117.30.120.138"
+  },
+  {
+    "name": "vore.top",
+    "url": "https://api.vore.top/api/IPdata?ip=1.1.1.1",
+    "status": "error",
+    "elapsed_ms": 59.73,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": null,
+    "error": "Cannot connect to host api.vore.top:443 ssl:default [Name or service not known]",
+    "test_ip": "1.1.1.1"
+  },
+  {
+    "name": "vore.top",
+    "url": "https://api.vore.top/api/IPdata?ip=8.8.8.8",
+    "status": "error",
+    "elapsed_ms": 91.46,
+    "remark": "已失效",
+    "supports_ip": true,
+    "result": null,
+    "error": "Cannot connect to host api.vore.top:443 ssl:default [Name or service not known]",
+    "test_ip": "8.8.8.8"
+  }
+]

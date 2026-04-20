@@ -1,0 +1,11 @@
+{
+  "name": "vore.top",
+  "url": "https://api.vore.top/api/IPdata?ip=8.8.8.8",
+  "status": "error",
+  "elapsed_ms": 91.46,
+  "remark": "已失效",
+  "supports_ip": true,
+  "result": null,
+  "error": "Cannot connect to host api.vore.top:443 ssl:default [Name or service not known]",
+  "test_ip": "8.8.8.8"
+}

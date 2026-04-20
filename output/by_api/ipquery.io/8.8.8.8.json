@@ -2,11 +2,11 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 10.32,
+  "elapsed_ms": 124.39,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "4.246.135.3",
+    "ip": "52.173.162.32",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
@@ -15,13 +15,13 @@
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "Washington",
-      "state": "Virginia",
-      "zipcode": "22747",
-      "latitude": 38.733606035754434,
-      "longitude": -78.1392056780737,
-      "timezone": "America/New_York",
-      "localtime": "2026-04-20T05:43:40"
+      "city": "Des Moines",
+      "state": "Iowa",
+      "zipcode": "50307",
+      "latitude": 41.609259674165145,
+      "longitude": -93.61867935399849,
+      "timezone": "America/Chicago",
+      "localtime": "2026-04-20T10:40:07"
     },
     "risk": {
       "is_mobile": false,

@@ -1,0 +1,13 @@
+{
+  "name": "ipapi.com",
+  "url": "https://ipapi.com/ip_api.php?ip=1.1.1.1",
+  "status": "success",
+  "elapsed_ms": 64.41,
+  "remark": "已失效",
+  "supports_ip": true,
+  "result": {
+    "raw": "{\"ip\": \"1.1.1.1\", \"hostname\": \"one.one.one.one\", \"type\": \"ipv4\", \"continent_code\": \"NA\", \"continent_name\": \"North America\", \"country_code\": \"US\", \"country_name\": \"United States\", \"region_code\": \"CO\", \"region_name\": \"Colorado\", \"city\": \"Englewood\", \"zip\": \"80113\", \"latitude\": 39.6413688659668, \"longitude\": -104.95458984375, \"msa\": \"19740\", \"dma\": \"751\", \"radius\": \"0\", \"ip_routing_type\": \"fixed\", \"connection_type\": \"tx\", \"location\": {\"geoname_id\": 5421250, \"capital\": \"Washington D.C.\", \"languages\""
+  },
+  "error": null,
+  "test_ip": "1.1.1.1"
+}

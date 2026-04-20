@@ -1,0 +1,13 @@
+{
+  "name": "ipapi.com",
+  "url": "https://ipapi.com/ip_api.php?ip=8.8.8.8",
+  "status": "success",
+  "elapsed_ms": 61.82,
+  "remark": "已失效",
+  "supports_ip": true,
+  "result": {
+    "raw": "{\"ip\": \"8.8.8.8\", \"hostname\": \"dns.google\", \"type\": \"ipv4\", \"continent_code\": \"NA\", \"continent_name\": \"North America\", \"country_code\": \"US\", \"country_name\": \"United States\", \"region_code\": \"CA\", \"region_name\": \"California\", \"city\": \"Orinda\", \"zip\": \"94563\", \"latitude\": 37.86330032348633, \"longitude\": -122.19094848632812, \"msa\": \"41860\", \"dma\": \"807\", \"radius\": \"0\", \"ip_routing_type\": \"fixed\", \"connection_type\": \"ocx\", \"location\": {\"geoname_id\": 7174025, \"capital\": \"Washington D.C.\", \"languages\":"
+  },
+  "error": null,
+  "test_ip": "8.8.8.8"
+}
