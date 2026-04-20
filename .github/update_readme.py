@@ -367,10 +367,12 @@ def get_status_icon(status: str) -> str:
 
 def generate_readme_table() -> str:
     """生成README中的API状态表格"""
-    from datetime import datetime
+    from datetime import datetime, timezone, timedelta
     from urllib.parse import quote
 
-    update_time = datetime.now().strftime("%Y-%m-%d %H:%M")
+    utc_time = datetime.now(timezone.utc)
+    update_time_utc = utc_time.strftime("%Y-%m-%d %H:%M")
+    update_time_cst = utc_time.astimezone(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
 
     test_ips = ["117.30.120.138", "1.1.1.1", "8.8.8.8"]
     test_ip = test_ips[0]
@@ -387,8 +389,8 @@ def generate_readme_table() -> str:
 
     output_lines = []
     output_lines.append("## 📊 API状态监控\n")
-    output_lines.append(f"> Updated at UTC+0: {update_time}\n")
-    output_lines.append(f"> 由 GitHub Actions 自动更新于 (UTC+8): {update_time}\n")
+    output_lines.append(f"> Updated at UTC+0: {update_time_utc}\n")
+    output_lines.append(f"> 由 GitHub Actions 自动更新于 (UTC+8): {update_time_cst}\n")
     output_lines.append(f"> 测试IP: {test_ips_str}\n")
 
     # 按分类顺序生成表格
