@@ -2,7 +2,7 @@
   "name": "ipapi.is",
   "url": "https://api.ipapi.is/?ip=117.30.120.138",
   "status": "success",
-  "elapsed_ms": 85.7,
+  "elapsed_ms": 420.45,
   "remark": "",
   "supports_ip": true,
   "result": {
@@ -59,11 +59,11 @@
       "longitude": 118.033,
       "zip": "361000",
       "timezone": "Asia/Shanghai",
-      "local_time": "2026-04-21T00:54:25+08:00",
-      "local_time_unix": 1776704065,
+      "local_time": "2026-04-21T03:54:46+08:00",
+      "local_time_unix": 1776714886,
       "is_dst": false
     },
-    "elapsed_ms": 0.83
+    "elapsed_ms": 0.69
   },
   "error": null,
   "test_ip": "117.30.120.138"

@@ -2,11 +2,11 @@
   "name": "cdid.ctrip",
   "url": "https://cdid.c-ctrip.com/model-poc2/h",
   "status": "success",
-  "elapsed_ms": 309.0,
+  "elapsed_ms": 231.93,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "raw": "172.183.134.182"
+    "raw": "20.169.77.228"
   },
   "error": null,
   "test_ip": "8.8.8.8"
