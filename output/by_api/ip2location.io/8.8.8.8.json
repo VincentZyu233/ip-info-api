@@ -2,7 +2,7 @@
   "name": "ip2location.io",
   "url": "https://api.ip2location.io/?ip=8.8.8.8",
   "status": "success",
-  "elapsed_ms": 30.82,
+  "elapsed_ms": 35.36,
   "remark": "免费5000次/天",
   "supports_ip": true,
   "result": {

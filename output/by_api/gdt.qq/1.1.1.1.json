@@ -2,11 +2,11 @@
   "name": "gdt.qq",
   "url": "https://ipv4.gdt.qq.com/get_client_ip",
   "status": "success",
-  "elapsed_ms": 254.96,
+  "elapsed_ms": 233.18,
   "remark": "返回纯文本",
   "supports_ip": false,
   "result": {
-    "raw": "20.55.86.183"
+    "raw": "172.183.134.182"
   },
   "error": null,
   "test_ip": "1.1.1.1"
