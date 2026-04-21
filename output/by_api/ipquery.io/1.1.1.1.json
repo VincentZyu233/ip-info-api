@@ -2,10 +2,10 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "error",
-  "elapsed_ms": 31.16,
+  "elapsed_ms": 86.95,
   "remark": "",
   "supports_ip": false,
   "result": null,
-  "error": "Cannot connect to host api.ipquery.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE",
+  "error": "Cannot connect to host api.ipquery.io:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE",
   "test_ip": "1.1.1.1"
 }
