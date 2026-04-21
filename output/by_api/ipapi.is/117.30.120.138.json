@@ -2,7 +2,7 @@
   "name": "ipapi.is",
   "url": "https://api.ipapi.is/?ip=117.30.120.138",
   "status": "success",
-  "elapsed_ms": 102.19,
+  "elapsed_ms": 44.13,
   "remark": "",
   "supports_ip": true,
   "result": {
@@ -19,7 +19,7 @@
     "is_abuser": false,
     "company": {
       "name": "CHINANET Fujian province network",
-      "abuser_score": "0.0022 (Low)",
+      "abuser_score": "0.002 (Low)",
       "domain": "chinatelecom.cn",
       "type": "isp",
       "network": "117.24.0.0 - 117.31.255.255",
@@ -59,11 +59,11 @@
       "longitude": 118.033,
       "zip": "361000",
       "timezone": "Asia/Shanghai",
-      "local_time": "2026-04-21T18:58:44+08:00",
-      "local_time_unix": 1776769124,
+      "local_time": "2026-04-21T22:29:38+08:00",
+      "local_time_unix": 1776781778,
       "is_dst": false
     },
-    "elapsed_ms": 0.74
+    "elapsed_ms": 0.7
   },
   "error": null,
   "test_ip": "117.30.120.138"
