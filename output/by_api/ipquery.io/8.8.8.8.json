@@ -2,7 +2,7 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "error",
-  "elapsed_ms": 92.46,
+  "elapsed_ms": 13.25,
   "remark": "",
   "supports_ip": false,
   "result": null,

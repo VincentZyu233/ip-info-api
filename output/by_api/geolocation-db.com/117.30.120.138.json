@@ -2,11 +2,11 @@
   "name": "geolocation-db.com",
   "url": "https://geolocation-db.com/json",
   "status": "success",
-  "elapsed_ms": 1160.64,
+  "elapsed_ms": 1015.84,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "raw": "{\"country_code\":\"US\",\"country_name\":\"United States\",\"city\":null,\"postal\":null,\"latitude\":37.751,\"longitude\":-97.822,\"IPv4\":\"20.12.182.167\",\"state\":null}"
+    "raw": "{\"country_code\":\"US\",\"country_name\":\"United States\",\"city\":null,\"postal\":null,\"latitude\":37.751,\"longitude\":-97.822,\"IPv4\":\"20.161.58.227\",\"state\":null}"
   },
   "error": null,
   "test_ip": "117.30.120.138"

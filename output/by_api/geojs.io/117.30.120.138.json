@@ -2,11 +2,11 @@
   "name": "geojs.io",
   "url": "https://get.geojs.io/v1/ip/geo/117.30.120.138.json",
   "status": "success",
-  "elapsed_ms": 158.98,
+  "elapsed_ms": 180.81,
   "remark": "",
   "supports_ip": true,
   "result": {
-    "accuracy": 5,
+    "accuracy": 10,
     "area_code": "0",
     "asn": 4134,
     "city": "Xiamen",
