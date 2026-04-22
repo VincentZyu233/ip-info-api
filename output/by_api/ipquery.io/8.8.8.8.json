@@ -2,33 +2,33 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 57.52,
+  "elapsed_ms": 19.58,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "172.212.171.145",
+    "ip": "145.132.100.65",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
-      "isp": "MICROSOFT"
+      "isp": "Koninklijke KPN N.V"
     },
     "location": {
-      "country": "United States",
-      "country_code": "US",
-      "city": "Des Moines",
-      "state": "Iowa",
-      "zipcode": "50307",
-      "latitude": 41.574381130275164,
-      "longitude": -93.64660034685696,
-      "timezone": "America/Chicago",
-      "localtime": "2026-04-22T20:00:25"
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "city": "The Hague",
+      "state": "South Holland",
+      "zipcode": "2597",
+      "latitude": 52.06936932803187,
+      "longitude": 4.318115793547422,
+      "timezone": "Europe/Amsterdam",
+      "localtime": "2026-04-22T22:39:00"
     },
     "risk": {
       "is_mobile": false,
       "is_vpn": false,
       "is_tor": false,
       "is_proxy": false,
-      "is_datacenter": true,
+      "is_datacenter": false,
       "risk_score": 0
     }
   },
