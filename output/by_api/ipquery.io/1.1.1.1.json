@@ -2,26 +2,26 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 25.99,
+  "elapsed_ms": 58.36,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "20.55.127.232",
+    "ip": "172.212.171.145",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation"
+      "isp": "MICROSOFT"
     },
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "Ashburn",
-      "state": "Virginia",
-      "zipcode": "20149",
-      "latitude": 39.060946392886855,
-      "longitude": -77.5032251451636,
-      "timezone": "America/New_York",
-      "localtime": "2026-04-22T16:49:28"
+      "city": "Des Moines",
+      "state": "Iowa",
+      "zipcode": "50307",
+      "latitude": 41.61327777261198,
+      "longitude": -93.62789799602187,
+      "timezone": "America/Chicago",
+      "localtime": "2026-04-22T20:00:21"
     },
     "risk": {
       "is_mobile": false,
