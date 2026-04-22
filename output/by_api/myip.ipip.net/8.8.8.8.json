@@ -2,17 +2,17 @@
   "name": "myip.ipip.net",
   "url": "https://myip.ipip.net/json",
   "status": "success",
-  "elapsed_ms": 379.26,
+  "elapsed_ms": 207.68,
   "remark": "",
   "supports_ip": false,
   "result": {
     "ret": "ok",
     "data": {
-      "ip": "172.183.133.241",
+      "ip": "20.55.127.232",
       "location": [
         "美国",
-        "伊利诺伊州",
-        "芝加哥",
+        "弗吉尼亚州",
+        "斯特灵",
         "",
         "microsoft.com"
       ]
