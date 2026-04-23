@@ -2,18 +2,18 @@
   "name": "ifconfig.me",
   "url": "https://ifconfig.me/all.json",
   "status": "success",
-  "elapsed_ms": 550.75,
+  "elapsed_ms": 561.1,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip_addr": "132.196.32.53",
+    "ip_addr": "20.109.38.168",
     "user_agent": "Python/3.11 aiohttp/3.13.5",
-    "port": "49080",
+    "port": "36688",
     "method": "GET",
     "encoding": "gzip, deflate",
     "mime": "*/*",
     "via": "1.1 google",
-    "forwarded": "132.196.32.53,34.160.111.145"
+    "forwarded": "20.109.38.168,34.160.111.145"
   },
   "error": null,
   "test_ip": "117.30.120.138"
