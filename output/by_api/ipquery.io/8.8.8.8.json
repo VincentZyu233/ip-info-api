@@ -2,26 +2,26 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 19.58,
+  "elapsed_ms": 33.2,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "145.132.100.65",
+    "ip": "135.232.200.69",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
-      "isp": "Koninklijke KPN N.V"
+      "isp": "MICROSOFT"
     },
     "location": {
-      "country": "The Netherlands",
-      "country_code": "NL",
-      "city": "The Hague",
-      "state": "South Holland",
-      "zipcode": "2597",
-      "latitude": 52.06936932803187,
-      "longitude": 4.318115793547422,
-      "timezone": "Europe/Amsterdam",
-      "localtime": "2026-04-22T22:39:00"
+      "country": "United States",
+      "country_code": "US",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zipcode": "60666",
+      "latitude": 41.89602404025122,
+      "longitude": -87.64868467141282,
+      "timezone": "America/Chicago",
+      "localtime": "2026-04-23T04:00:51"
     },
     "risk": {
       "is_mobile": false,
