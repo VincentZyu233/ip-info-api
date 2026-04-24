@@ -2,11 +2,11 @@
   "name": "geolocation-db.com",
   "url": "https://geolocation-db.com/json",
   "status": "success",
-  "elapsed_ms": 661.22,
+  "elapsed_ms": 574.79,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "raw": "{\"country_code\":\"SE\",\"country_name\":\"Sweden\",\"city\":null,\"postal\":null,\"latitude\":59.3247,\"longitude\":18.056,\"IPv4\":\"132.196.80.211\",\"state\":null}"
+    "raw": "{\"country_code\":\"US\",\"country_name\":\"United States\",\"city\":\"Midland\",\"postal\":\"28107\",\"latitude\":35.2477,\"longitude\":-80.5319,\"IPv4\":\"74.235.126.86\",\"state\":\"North Carolina\"}"
   },
   "error": null,
   "test_ip": "1.1.1.1"
