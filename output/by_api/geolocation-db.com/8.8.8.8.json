@@ -2,11 +2,11 @@
   "name": "geolocation-db.com",
   "url": "https://geolocation-db.com/json",
   "status": "success",
-  "elapsed_ms": 3097.89,
+  "elapsed_ms": 515.72,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "raw": "{\"country_code\":\"DE\",\"country_name\":\"Germany\",\"city\":null,\"postal\":null,\"latitude\":51.2993,\"longitude\":9.491,\"IPv4\":\"172.178.118.83\",\"state\":null}"
+    "raw": "{\"country_code\":\"DE\",\"country_name\":\"Germany\",\"city\":null,\"postal\":null,\"latitude\":51.2993,\"longitude\":9.491,\"IPv4\":\"172.174.223.96\",\"state\":null}"
   },
   "error": null,
   "test_ip": "8.8.8.8"
