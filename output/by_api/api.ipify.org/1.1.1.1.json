@@ -2,11 +2,11 @@
   "name": "api.ipify.org",
   "url": "https://api.ipify.org?format=json",
   "status": "success",
-  "elapsed_ms": 61.75,
+  "elapsed_ms": 23.78,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "172.215.223.223"
+    "ip": "57.151.122.148"
   },
   "error": null,
   "test_ip": "1.1.1.1"
