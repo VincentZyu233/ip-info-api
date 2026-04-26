@@ -2,33 +2,33 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 80.66,
+  "elapsed_ms": 13.31,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "20.169.50.37",
+    "ip": "145.132.99.96",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation"
+      "isp": "Koninklijke KPN N.V"
     },
     "location": {
-      "country": "United States",
-      "country_code": "US",
-      "city": "Phoenix",
-      "state": "Arizona",
-      "zipcode": "85001",
-      "latitude": 33.44354910782236,
-      "longitude": -112.05352413801609,
-      "timezone": "America/Phoenix",
-      "localtime": "2026-04-26T04:19:10"
+      "country": "The Netherlands",
+      "country_code": "NL",
+      "city": "The Hague",
+      "state": "South Holland",
+      "zipcode": "2597",
+      "latitude": 52.083841395189964,
+      "longitude": 4.313316218435565,
+      "timezone": "Europe/Amsterdam",
+      "localtime": "2026-04-26T08:11:56"
     },
     "risk": {
       "is_mobile": false,
       "is_vpn": false,
       "is_tor": false,
       "is_proxy": false,
-      "is_datacenter": true,
+      "is_datacenter": false,
       "risk_score": 0
     }
   },
