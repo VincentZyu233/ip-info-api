@@ -2,33 +2,33 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 59.95,
+  "elapsed_ms": 35.8,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "52.161.83.196",
+    "ip": "135.232.220.249",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation"
+      "isp": "MICROSOFT"
     },
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "Cheyenne",
-      "state": "Wyoming",
-      "zipcode": "82002",
-      "latitude": 41.122194153694394,
-      "longitude": -104.81165782710282,
-      "timezone": "America/Denver",
-      "localtime": "2026-04-27T11:30:09"
+      "city": "Chicago",
+      "state": "Illinois",
+      "zipcode": "60666",
+      "latitude": 41.864896321044796,
+      "longitude": -87.64098077770927,
+      "timezone": "America/Chicago",
+      "localtime": "2026-04-27T14:57:41"
     },
     "risk": {
       "is_mobile": false,
       "is_vpn": false,
       "is_tor": false,
       "is_proxy": false,
-      "is_datacenter": true,
+      "is_datacenter": false,
       "risk_score": 0
     }
   },
