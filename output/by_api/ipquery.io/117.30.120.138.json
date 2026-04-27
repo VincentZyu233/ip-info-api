@@ -2,11 +2,11 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 638.6,
+  "elapsed_ms": 650.51,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "52.159.243.22",
+    "ip": "20.81.47.118",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
@@ -15,13 +15,13 @@
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "San Jose",
-      "state": "California",
-      "zipcode": "95141",
-      "latitude": 37.337886621579216,
-      "longitude": -121.86943776089888,
-      "timezone": "America/Los_Angeles",
-      "localtime": "2026-04-26T22:27:40"
+      "city": "Ashburn",
+      "state": "Virginia",
+      "zipcode": "20149",
+      "latitude": 39.01943919160034,
+      "longitude": -77.47632409312452,
+      "timezone": "America/New_York",
+      "localtime": "2026-04-27T04:25:29"
     },
     "risk": {
       "is_mobile": false,
