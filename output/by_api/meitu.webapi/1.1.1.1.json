@@ -2,7 +2,7 @@
   "name": "meitu.webapi",
   "url": "https://webapi-pc.meitu.com/common/ip_location?ip=1.1.1.1",
   "status": "success",
-  "elapsed_ms": 750.61,
+  "elapsed_ms": 578.81,
   "remark": "已失效",
   "supports_ip": true,
   "result": {

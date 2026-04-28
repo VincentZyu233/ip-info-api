@@ -2,7 +2,7 @@
   "name": "ipapi.is",
   "url": "https://api.ipapi.is/?ip=1.1.1.1",
   "status": "success",
-  "elapsed_ms": 25.16,
+  "elapsed_ms": 7.5,
   "remark": "",
   "supports_ip": true,
   "result": {
@@ -60,13 +60,13 @@
       "longitude": 153.02809,
       "zip": "4000",
       "timezone": "Australia/Brisbane",
-      "local_time": "2026-04-29T03:30:04+10:00",
-      "local_time_unix": 1777397404,
+      "local_time": "2026-04-29T06:09:14+10:00",
+      "local_time_unix": 1777406954,
       "is_dst": false,
       "utcoffset": "+10:00",
       "accuracy": "MEDIUM"
     },
-    "elapsed_ms": 0.83
+    "elapsed_ms": 0.57
   },
   "error": null,
   "test_ip": "1.1.1.1"
