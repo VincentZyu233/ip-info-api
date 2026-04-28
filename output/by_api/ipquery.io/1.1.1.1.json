@@ -2,11 +2,11 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 86.71,
+  "elapsed_ms": 54.91,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "20.168.109.195",
+    "ip": "52.154.130.216",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
@@ -15,13 +15,13 @@
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "Phoenix",
-      "state": "Arizona",
-      "zipcode": "85001",
-      "latitude": 33.44890925205316,
-      "longitude": -112.08886974194527,
-      "timezone": "America/Phoenix",
-      "localtime": "2026-04-28T09:14:17"
+      "city": "Des Moines",
+      "state": "Iowa",
+      "zipcode": "50307",
+      "latitude": 41.59954198356777,
+      "longitude": -93.64127248516121,
+      "timezone": "America/Chicago",
+      "localtime": "2026-04-28T11:40:28"
     },
     "risk": {
       "is_mobile": false,
