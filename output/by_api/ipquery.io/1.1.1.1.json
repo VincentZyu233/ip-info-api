@@ -2,11 +2,11 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 68.39,
+  "elapsed_ms": 105.88,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "13.83.166.224",
+    "ip": "52.159.229.54",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
@@ -18,10 +18,10 @@
       "city": "San Jose",
       "state": "California",
       "zipcode": "95141",
-      "latitude": 37.354904614006436,
-      "longitude": -121.90433516646064,
+      "latitude": 37.35064671234253,
+      "longitude": -121.90758028361026,
       "timezone": "America/Los_Angeles",
-      "localtime": "2026-04-29T04:24:57"
+      "localtime": "2026-04-29T09:05:19"
     },
     "risk": {
       "is_mobile": false,

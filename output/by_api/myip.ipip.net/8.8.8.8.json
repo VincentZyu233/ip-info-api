@@ -2,13 +2,13 @@
   "name": "myip.ipip.net",
   "url": "https://myip.ipip.net/json",
   "status": "success",
-  "elapsed_ms": 143.82,
+  "elapsed_ms": 114.48,
   "remark": "",
   "supports_ip": false,
   "result": {
     "ret": "ok",
     "data": {
-      "ip": "13.83.166.224",
+      "ip": "52.159.229.54",
       "location": [
         "美国",
         "加利福尼亚州",
