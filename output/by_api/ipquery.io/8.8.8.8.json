@@ -2,33 +2,33 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 27.18,
+  "elapsed_ms": 61.37,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "68.154.116.116",
+    "ip": "135.119.38.39",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
       "isp": "Microsoft Corporation"
     },
     "location": {
-      "country": "United States",
-      "country_code": "US",
-      "city": "Boydton",
-      "state": "Virginia",
-      "zipcode": "23917",
-      "latitude": 36.68627681284428,
-      "longitude": -78.40954731544191,
-      "timezone": "America/New_York",
-      "localtime": "2026-04-29T15:03:22"
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "London",
+      "state": "England",
+      "zipcode": "W1B",
+      "latitude": 51.50186294398795,
+      "longitude": -0.15125394903893646,
+      "timezone": "Europe/London",
+      "localtime": "2026-04-29T17:17:13"
     },
     "risk": {
       "is_mobile": false,
       "is_vpn": false,
       "is_tor": false,
       "is_proxy": false,
-      "is_datacenter": true,
+      "is_datacenter": false,
       "risk_score": 0
     }
   },
