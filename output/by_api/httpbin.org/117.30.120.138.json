@@ -2,11 +2,11 @@
   "name": "httpbin.org",
   "url": "http://httpbin.org/ip",
   "status": "success",
-  "elapsed_ms": 188.7,
+  "elapsed_ms": 195.2,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "origin": "20.172.192.242"
+    "origin": "52.159.245.151"
   },
   "error": null,
   "test_ip": "117.30.120.138"

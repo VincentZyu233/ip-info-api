@@ -2,11 +2,11 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 12.1,
+  "elapsed_ms": 68.97,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "20.172.192.242",
+    "ip": "52.159.245.151",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
@@ -15,13 +15,13 @@
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "Washington",
-      "state": "Virginia",
-      "zipcode": "22747",
-      "latitude": 38.728068334472994,
-      "longitude": -78.14284365861589,
-      "timezone": "America/New_York",
-      "localtime": "2026-04-30T11:23:14"
+      "city": "San Jose",
+      "state": "California",
+      "zipcode": "95141",
+      "latitude": 37.36325479808126,
+      "longitude": -121.88977808053127,
+      "timezone": "America/Los_Angeles",
+      "localtime": "2026-04-30T15:00:16"
     },
     "risk": {
       "is_mobile": false,
