@@ -2,11 +2,11 @@
   "name": "geolocation-db.com",
   "url": "https://geolocation-db.com/json",
   "status": "success",
-  "elapsed_ms": 1117.58,
+  "elapsed_ms": 1053.24,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "raw": "{\"country_code\":\"BE\",\"country_name\":\"Belgium\",\"city\":null,\"postal\":null,\"latitude\":50.85,\"longitude\":4.35,\"IPv4\":\"57.151.138.144\",\"state\":null}"
+    "raw": "{\"country_code\":\"SE\",\"country_name\":\"Sweden\",\"city\":null,\"postal\":null,\"latitude\":59.3247,\"longitude\":18.056,\"IPv4\":\"132.196.80.215\",\"state\":null}"
   },
   "error": null,
   "test_ip": "117.30.120.138"
