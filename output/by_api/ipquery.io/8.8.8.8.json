@@ -2,11 +2,11 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 71.42,
+  "elapsed_ms": 14.07,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "40.65.61.42",
+    "ip": "48.214.53.180",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
@@ -15,20 +15,20 @@
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "San Jose",
-      "state": "California",
-      "zipcode": "95141",
-      "latitude": 37.35055038857087,
-      "longitude": -121.9055463600359,
-      "timezone": "America/Los_Angeles",
-      "localtime": "2026-04-30T22:41:53"
+      "city": "Boydton",
+      "state": "Virginia",
+      "zipcode": "23917",
+      "latitude": 36.657891783863896,
+      "longitude": -78.3755803588755,
+      "timezone": "America/New_York",
+      "localtime": "2026-05-01T04:43:36"
     },
     "risk": {
       "is_mobile": false,
       "is_vpn": false,
       "is_tor": false,
       "is_proxy": false,
-      "is_datacenter": true,
+      "is_datacenter": false,
       "risk_score": 0
     }
   },
