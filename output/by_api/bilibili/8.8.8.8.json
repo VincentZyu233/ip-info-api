@@ -2,7 +2,7 @@
   "name": "bilibili",
   "url": "https://api.live.bilibili.com/xlive/web-room/v1/index/getIpInfo",
   "status": "success",
-  "elapsed_ms": 276.64,
+  "elapsed_ms": 280.92,
   "remark": "",
   "supports_ip": false,
   "result": {
@@ -10,13 +10,13 @@
     "message": "0",
     "ttl": 1,
     "data": {
-      "addr": "52.173.108.23",
+      "addr": "4.236.173.17",
       "country": "美国",
-      "province": "爱荷华州",
-      "city": "得梅因",
+      "province": "弗吉尼亚州",
+      "city": "斯特灵",
       "isp": "microsoft.com",
-      "latitude": "41.586835",
-      "longitude": "-93.624959"
+      "latitude": "39.006699",
+      "longitude": "-77.429129"
     }
   },
   "error": null,

@@ -2,20 +2,20 @@
   "name": "g3.letv",
   "url": "https://g3.letv.com/r?format=1",
   "status": "success",
-  "elapsed_ms": 1546.34,
+  "elapsed_ms": 1546.39,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ipint": "883780631",
-    "host": "52.173.108.23",
-    "remote": "52.173.108.23",
-    "ipstart": "883752960",
-    "ipend": "883818495",
+    "ipint": "82619665",
+    "host": "4.236.173.17",
+    "remote": "4.236.173.17",
+    "ipstart": "82575360",
+    "ipend": "82640895",
     "geo": "US.0.0.100",
     "desc": "美国-未知-未知-国外",
     "buss": "bussid=6,alv=80,orgqos=5,host=2,port=80",
-    "curtime": 1777633285,
-    "identify": "1731505684:8132",
+    "curtime": 1777644826,
+    "identify": "1731505686:8128",
     "fixlist": "",
     "qosfix": "",
     "prior": "",
@@ -75,7 +75,7 @@
         "aid": 1075,
         "isp": 2,
         "detail": "",
-        "location": "http://125.39.236.28/letvabcdeasktf512K"
+        "location": "http://125.39.236.21/letvabcdeasktf512K"
       }
     ]
   },
