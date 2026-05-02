@@ -2,33 +2,33 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 16.42,
+  "elapsed_ms": 33.29,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "4.246.135.32",
+    "ip": "135.232.224.98",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
-      "isp": "Microsoft Corporation"
+      "isp": "MICROSOFT"
     },
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "Washington",
-      "state": "Virginia",
-      "zipcode": "22747",
-      "latitude": 38.69037527760719,
-      "longitude": -78.16160782006024,
-      "timezone": "America/New_York",
-      "localtime": "2026-05-02T04:14:57"
+      "city": "Chicago",
+      "state": "Illinois",
+      "zipcode": "60666",
+      "latitude": 41.8791173197014,
+      "longitude": -87.64524049862152,
+      "timezone": "America/Chicago",
+      "localtime": "2026-05-02T08:17:28"
     },
     "risk": {
       "is_mobile": false,
       "is_vpn": false,
       "is_tor": false,
       "is_proxy": false,
-      "is_datacenter": true,
+      "is_datacenter": false,
       "risk_score": 0
     }
   },
