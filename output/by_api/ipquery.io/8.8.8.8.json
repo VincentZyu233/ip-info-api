@@ -2,33 +2,33 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 79.63,
+  "elapsed_ms": 36.38,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "172.182.195.135",
+    "ip": "64.236.134.53",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
-      "isp": "Microsoft"
+      "isp": "Microsoft Corporation"
     },
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "Phoenix",
-      "state": "Arizona",
-      "zipcode": "85001",
-      "latitude": 33.464427011429656,
-      "longitude": -112.08489767771496,
-      "timezone": "America/Phoenix",
-      "localtime": "2026-05-02T16:36:25"
+      "city": "Chicago",
+      "state": "Illinois",
+      "zipcode": "60666",
+      "latitude": 41.89154792323063,
+      "longitude": -87.63993619859534,
+      "timezone": "America/Chicago",
+      "localtime": "2026-05-02T19:46:33"
     },
     "risk": {
       "is_mobile": false,
       "is_vpn": false,
       "is_tor": false,
       "is_proxy": false,
-      "is_datacenter": true,
+      "is_datacenter": false,
       "risk_score": 0
     }
   },
