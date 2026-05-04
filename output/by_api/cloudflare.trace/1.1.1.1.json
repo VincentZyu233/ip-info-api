@@ -2,11 +2,11 @@
   "name": "cloudflare.trace",
   "url": "https://1.1.1.1/cdn-cgi/trace",
   "status": "success",
-  "elapsed_ms": 4.48,
+  "elapsed_ms": 11.55,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "raw": "fl=14f874\nh=1.1.1.1\nip=64.236.169.105\nts=1777915318.000\nvisit_scheme=https\nuag=Python/3.11 aiohttp/3.13.5\ncolo=ORD\nsliver=none\nhttp=http/1.1\nloc=US\ntls=TLSv1.3\nsni=off\nwarp=off\ngateway=off\nrbi=off\nkex=X25519\n"
+    "raw": "fl=612f167\nh=1.1.1.1\nip=52.154.19.230\nts=1777925412.000\nvisit_scheme=https\nuag=Python/3.11 aiohttp/3.13.5\ncolo=ORD\nsliver=none\nhttp=http/1.1\nloc=US\ntls=TLSv1.3\nsni=off\nwarp=off\ngateway=off\nrbi=off\nkex=X25519\n"
   },
   "error": null,
   "test_ip": "1.1.1.1"

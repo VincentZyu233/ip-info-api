@@ -2,11 +2,11 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 665.87,
+  "elapsed_ms": 768.41,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "64.236.169.105",
+    "ip": "52.154.19.230",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
@@ -15,20 +15,20 @@
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "Chicago",
-      "state": "Illinois",
-      "zipcode": "60666",
-      "latitude": 41.86037394841811,
-      "longitude": -87.62856107872581,
+      "city": "Des Moines",
+      "state": "Iowa",
+      "zipcode": "50307",
+      "latitude": 41.60159437623563,
+      "longitude": -93.64318923130453,
       "timezone": "America/Chicago",
-      "localtime": "2026-05-04T17:21:49"
+      "localtime": "2026-05-04T20:10:01"
     },
     "risk": {
       "is_mobile": false,
       "is_vpn": false,
       "is_tor": false,
       "is_proxy": false,
-      "is_datacenter": false,
+      "is_datacenter": true,
       "risk_score": 0
     }
   },
