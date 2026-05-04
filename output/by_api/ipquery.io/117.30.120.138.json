@@ -2,11 +2,11 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 768.41,
+  "elapsed_ms": 597.73,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "52.154.19.230",
+    "ip": "52.176.138.198",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
@@ -18,10 +18,10 @@
       "city": "Des Moines",
       "state": "Iowa",
       "zipcode": "50307",
-      "latitude": 41.60159437623563,
-      "longitude": -93.64318923130453,
+      "latitude": 41.59800394355125,
+      "longitude": -93.6440907157483,
       "timezone": "America/Chicago",
-      "localtime": "2026-05-04T20:10:01"
+      "localtime": "2026-05-04T22:47:42"
     },
     "risk": {
       "is_mobile": false,
