@@ -2,11 +2,11 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 597.73,
+  "elapsed_ms": 657.59,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "52.176.138.198",
+    "ip": "20.97.196.164",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
@@ -15,13 +15,13 @@
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "Des Moines",
-      "state": "Iowa",
-      "zipcode": "50307",
-      "latitude": 41.59800394355125,
-      "longitude": -93.6440907157483,
-      "timezone": "America/Chicago",
-      "localtime": "2026-05-04T22:47:42"
+      "city": "Boydton",
+      "state": "Virginia",
+      "zipcode": "23917",
+      "latitude": 36.67713803600232,
+      "longitude": -78.36951096264849,
+      "timezone": "America/New_York",
+      "localtime": "2026-05-05T04:12:03"
     },
     "risk": {
       "is_mobile": false,

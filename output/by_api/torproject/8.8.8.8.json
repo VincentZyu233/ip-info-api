@@ -2,12 +2,12 @@
   "name": "torproject",
   "url": "https://check.torproject.org/api/ip",
   "status": "success",
-  "elapsed_ms": 439.29,
+  "elapsed_ms": 493.92,
   "remark": "",
   "supports_ip": false,
   "result": {
     "IsTor": false,
-    "IP": "52.176.138.198"
+    "IP": "20.97.196.164"
   },
   "error": null,
   "test_ip": "8.8.8.8"

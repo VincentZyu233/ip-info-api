@@ -2,11 +2,11 @@
   "name": "api.myip.com",
   "url": "https://api.myip.com",
   "status": "success",
-  "elapsed_ms": 36.91,
+  "elapsed_ms": 18.69,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "raw": "{\"ip\":\"52.176.138.198\",\"country\":\"United States\",\"cc\":\"US\"}"
+    "raw": "{\"ip\":\"20.97.196.164\",\"country\":\"United States\",\"cc\":\"US\"}"
   },
   "error": null,
   "test_ip": "8.8.8.8"
