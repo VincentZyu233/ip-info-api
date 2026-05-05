@@ -2,7 +2,7 @@
   "name": "realip.cc",
   "url": "https://realip.cc/?ip=8.8.8.8",
   "status": "success",
-  "elapsed_ms": 2786.02,
+  "elapsed_ms": 7403.57,
   "remark": "",
   "supports_ip": true,
   "result": {
@@ -23,7 +23,7 @@
     "blog": "https://www.bboy.app",
     "tg_group": "https://t.me/bboyapp",
     "data_updatetime": 20260331,
-    "count": 876213756
+    "count": 877009818
   },
   "error": null,
   "test_ip": "8.8.8.8"
