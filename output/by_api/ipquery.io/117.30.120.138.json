@@ -2,11 +2,11 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 657.59,
+  "elapsed_ms": 565.17,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "20.97.196.164",
+    "ip": "52.165.213.176",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
@@ -15,13 +15,13 @@
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "Boydton",
-      "state": "Virginia",
-      "zipcode": "23917",
-      "latitude": 36.67713803600232,
-      "longitude": -78.36951096264849,
-      "timezone": "America/New_York",
-      "localtime": "2026-05-05T04:12:03"
+      "city": "Des Moines",
+      "state": "Iowa",
+      "zipcode": "50307",
+      "latitude": 41.60880353913567,
+      "longitude": -93.63443615583508,
+      "timezone": "America/Chicago",
+      "localtime": "2026-05-05T09:03:48"
     },
     "risk": {
       "is_mobile": false,
