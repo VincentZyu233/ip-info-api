@@ -2,11 +2,11 @@
   "name": "ipquery.io",
   "url": "https://api.ipquery.io/?format=json",
   "status": "success",
-  "elapsed_ms": 571.74,
+  "elapsed_ms": 431.82,
   "remark": "",
   "supports_ip": false,
   "result": {
-    "ip": "172.183.91.0",
+    "ip": "172.203.213.83",
     "isp": {
       "asn": "AS8075",
       "org": "Microsoft Corporation",
@@ -15,13 +15,13 @@
     "location": {
       "country": "United States",
       "country_code": "US",
-      "city": "Chicago",
-      "state": "Illinois",
-      "zipcode": "60666",
-      "latitude": 41.886034823882866,
-      "longitude": -87.60529051640468,
-      "timezone": "America/Chicago",
-      "localtime": "2026-05-05T22:45:39"
+      "city": "Washington",
+      "state": "Virginia",
+      "zipcode": "22747",
+      "latitude": 38.7148792089527,
+      "longitude": -78.18676280059623,
+      "timezone": "America/New_York",
+      "localtime": "2026-05-06T04:29:24"
     },
     "risk": {
       "is_mobile": false,
